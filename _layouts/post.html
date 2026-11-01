@@ -7,6 +7,11 @@ layout: default
     {% assign month = page.date | date: "%m" %}
     <p class="entry-meta">{{ page.date | date: "%Y" }} m. {{ site.data.months[month] }} {{ page.date | date: "%d" }} d.</p>
   </header>
+  {% if page.image %}
+  <div class="post-thumbnail">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
+  </div>
+  {% endif %}
   <div class="entry-content">
     {{ content }}
   </div>
