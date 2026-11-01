@@ -2,6 +2,7 @@
 title: peritonine.lt
 description: 'Tinklapis apie peritoninę dializę'
 language: lt
+markdown: kramdown
 baseurl: ''
 url: ''
 exclude:

@@ -4,7 +4,8 @@ layout: default
 <article class="post">
   <header class="entry-header">
     <h1 class="entry-title">{{ page.title }}</h1>
-    <p class="entry-meta">{{ page.date | date: "%Y m. %B d." }}</p>
+    {% assign month = page.date | date: "%m" %}
+    <p class="entry-meta">{{ page.date | date: "%Y" }} m. {{ site.data.months[month] }} {{ page.date | date: "%d" }} d.</p>
   </header>
   <div class="entry-content">
     {{ content }}

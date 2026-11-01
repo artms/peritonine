@@ -4,7 +4,7 @@ title: "Mamos patirtis"
 date: 2019-03-15
 slug: mamos-patirtis
 description: "Iš visų mamų, kurios atlieka vaikams peritonines dializes, atsiliepė tik viena. Dalinuosi šios nuostabios mamos patirtimi."
-image: /assets/images/Mamos-patirtis-peritonine.lt-1.png
+image: /assets/images/2019/03/Mamos-patirtis-peritonine.lt-1.png
 ---
 
 <p>Iš visų mamų, kurios atlieka vaikams peritonines dializes, atsiliepė tik viena. Tikiu ir suprantu, kad tikriausiai sunku ir skauda apie tai kalbėti. Dalinuosi šios nuostabios mamos patirtimi.</p>
