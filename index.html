@@ -1,0 +1,17 @@
+---
+layout: default
+title: PAGRINDINIS
+---
+<div class="front-page-posts">
+  {% for post in site.posts %}
+  <div class="front-page-post">
+    <div class="front-page-post-image">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+    </div>
+    <a class="front-page-post-link" href="{{ post.url | relative_url }}"><h2 class="entry-title">{{ post.title }}</h2></a>
+    <div class="front-page-post-description">
+      <p>{{ post.description }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

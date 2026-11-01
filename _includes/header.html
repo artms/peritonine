@@ -1,0 +1,20 @@
+<header id="masthead" class="site-header">
+  <div class="responsive-container">
+    <div class="site-branding">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p class="site-description">{{ site.description }}</p>
+    </div>
+    <nav id="site-navigation" class="main-navigation">
+      <div class="menu-container">
+        <div class="bizto-menu">
+          <ul id="primary-menu" class="menu">
+            <li class="menu-item{% if page.url == '/' %} current-menu-item{% endif %}"><a href="{{ '/' | relative_url }}">PAGRINDINIS</a></li>
+            <li class="menu-item{% if page.url contains 'peritonine-dialize' %} current-menu-item{% endif %}"><a href="{{ '/peritonine-dialize/' | relative_url }}">PERITONINĖ DIALIZĖ</a></li>
+            <li class="menu-item{% if page.url contains 'pacientu-patirtys' %} current-menu-item{% endif %}"><a href="{{ '/pacientu-patirtys/' | relative_url }}">PACIENTŲ PATIRTYS</a></li>
+            <li class="menu-item{% if page.url contains 'duk' %} current-menu-item{% endif %}"><a href="{{ '/duk/' | relative_url }}">DUK</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>

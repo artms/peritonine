@@ -1,0 +1,14 @@
+---
+title: peritonine.lt
+description: 'Tinklapis apie peritoninę dializę'
+language: lt
+baseurl: ''
+url: ''
+exclude:
+  - .git
+  - .gitignore
+collections:
+  posts:
+    permalink: /:slug/
+    output: true
+---

@@ -1,0 +1,13 @@
+---
+layout: page
+title: "2019 m. vasario mėn."
+permalink: /2019-02/
+---
+<ul class="archive-list">
+{% for post in site.posts %}
+{% assign post_ym = post.date | date: "%Y-%m" %}
+{% if post_ym == "2019-02" %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
