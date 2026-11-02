@@ -4,7 +4,7 @@ title: "Aisčio patirtis"
 date: 2019-03-15
 slug: aiscio-patirtis
 description: "Aistis atsako į klausymus apie peritoninę dializę. Jis atlieka rankines PD."
-image: /assets/images/2019/03/peritonine.lt_.jpg
+image: /assets/images/patirtys/peritonine.lt_.jpg
 ---
 
 Kiek laiko atliekate peritoninę dializę (toliau – PD)? Dializuojuosi beveik dvejus metus.\

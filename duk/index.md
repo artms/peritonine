@@ -28,7 +28,7 @@ Pirmą kartą eksperimentinis PD panaudojimas uremijos gydymui aprašytas Miunch
 
 ### Kaip paciento kūne atrodo PD kateteris? {#PD2}
 
-![Kaip atrodo implantuotas kateteris?](/assets/images/2019/03/kateteris.jpg)
+![Kaip atrodo implantuotas kateteris?](/assets/images/duk/kateteris.jpg)
 
 Kateterio vaizdas pilve. PD kateterio implantavimo vieta parenkama atsižvelgiant į žmogaus kūno ypatybes ir įpročius: anga turi būti pacientui matoma, negali slėptis paodžio riebalų klostėse, negali būti kelnių diržo lygyje.
 
