@@ -20,6 +20,7 @@ a { color: #21759b; }
 .menu-container ul li a:hover, .menu-container ul li.current-menu-item a { color: #fff; }
 
 /* Content */
+.header-container { width: 100%; }
 .site-content { width: 100%; }
 .content-area { width: 100%; margin: 0 0 10% 0; padding: 0 5%; }
 .entry-header { margin: 5% 0 3% 0; }
