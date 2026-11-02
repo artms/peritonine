@@ -23,8 +23,9 @@ a { color: #21759b; }
 
 /* Content */
 .header-container { width: 100%; }
-.site-content { width: 100%; }
-.content-area { width: 100%; margin: 0 0 10% 0; padding: 0 5%; }
+.site-content { width: 100%; padding: 5%; overflow: auto; }
+.content-area { width: 100%; float: left; margin: 0 0 10% 0; }
+.content-area-full { width: 100%; float: left; margin: 0 0 10% 0; }
 .entry-header { margin: 5% 0 3% 0; }
 .entry-title { font-family: 'Titillium Web', sans-serif; color: #2d2d2d; margin: 0 0 0.4em 0; font-size: 2em; line-height: 1.2; }
 .entry-content { font-size: 1rem; line-height: 1.7; overflow-wrap: break-word; }
@@ -35,7 +36,7 @@ a { color: #21759b; }
 .entry-content ul ul { list-style: circle; }
 
 /* Front page */
-.front-page-posts { overflow: auto; width: 100%; padding: 5%; }
+.front-page-posts { overflow: auto; width: 100%; }
 .front-page-post { width: 100%; margin: 0 0 5% 0; background: rgba(0,0,0,0.09); padding: 10%; float: left; }
 .front-page-post-image { width: 100%; text-align: center; }
 .front-page-post h2 { color: #000; margin: 0.5em 0; font-family: 'Titillium Web', sans-serif; }
@@ -66,8 +67,7 @@ a { color: #21759b; }
   .bizto-menu { text-align: right; }
   .menu-container { padding: 0; float: right; width: 80%; }
   .menu-container ul li { padding: 0 2.0em; display: inline-block; width: auto; }
-  .content-area { width: 65%; margin: 0 5% 10% 0; padding: 0; }
-  .front-page-posts { padding: 5%; }
+  .content-area { width: 65%; margin: 0 5% 10% 0; }
   .front-page-post { width: 27%; margin: 0 3% 6% 3%; padding: 3%; }
   .front-page-post:nth-child(3n+1) { clear: both; float: left; }
   .site-logo { width: 40%; }
