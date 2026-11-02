@@ -3,7 +3,10 @@ layout: default
 title: PAGRINDINIS
 ---
 <div class="front-page-posts">
-  {% for post in site.posts %}
+  {% assign apie_posts = site.posts | where: 'slug', 'apie' %}
+  {% assign other_posts = site.posts | where_exp: "post", "post.slug != 'apie'" %}
+  {% assign front_posts = '' | split: ',' | concat: apie_posts | concat: other_posts %}
+  {% for post in front_posts %}
   <div class="front-page-post">
     <div class="front-page-post-image">
       <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
