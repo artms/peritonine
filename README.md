@@ -11,6 +11,7 @@ Jekyll svetainė apie peritoninę dializę.
 - `assets/css/style.css` — tema
 - `assets/images/<tema>/` — paveikslėliai pagal temas (`logo/`, `apie/`, `duk/`, `peritonine-dialize/`, `patirtys/`, `misc/`)
 - `_config.yml` — konfigūracija (`collections.posts` blokas lemia `/<slug>/` URL — jo nešalinti)
+- nauji su svetaine nesusiję failai — į `_config.yml` `exclude` sąrašą (kitaip atsidurs `_site/`)
 
 ## Statymas
 
