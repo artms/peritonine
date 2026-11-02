@@ -16,6 +16,7 @@ Conventions for AI agents working in this repository.
 - `duk/`, `peritonine-dialize/`, `pacientu-patirtys/` — static pages (Markdown).
 - `assets/css/style.css` — theme.
 - `assets/images/<theme>/` — images grouped by theme (`logo/`, `apie/`, `duk/`, `peritonine-dialize/`, `patirtys/`, `misc/` = unused WP leftovers). Never reintroduce dated WP-style dirs (e.g. `2019/02/`).
+- Files at the repo root that are not part of the website (`README.md`, `AGENTS.md`, `CODEOWNERS`, `scripts/`) must be listed in the `exclude:` block of `_config.yml` — otherwise Jekyll copies them into `_site/`.
 
 ## Build & local development
 
