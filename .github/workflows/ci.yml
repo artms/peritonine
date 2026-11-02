@@ -1,0 +1,18 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Jekyll
+        run: gem install jekyll --no-document
+      - name: Build site
+        run: jekyll build
+      - name: Check anchors and assets
+        run: python3 scripts/check_site.py

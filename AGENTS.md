@@ -38,29 +38,13 @@ then open http://127.0.0.1:8742/ in a browser. To preview the last build without
 
 ## Verifying changes
 
-`jekyll build` must succeed, then:
+`jekyll build` must succeed, then run the checks:
 
-1. **Anchors** — every in-page `href="#x"` must match an `id="x"` in the same built page:
+    python3 scripts/check_site.py
 
-   ```python
-   import re, glob
-   for f in glob.glob('_site/**/index.html', recursive=True):
-       html = open(f).read()
-       missing = [a for a in re.findall(r'href="#([^"]+)"', html)
-                  if a not in set(re.findall(r'id="([^"]+)"', html))]
-       if missing: print(f, 'BROKEN:', missing)
-   ```
+It verifies that every in-page `href="#x"` matches an `id="x"` in the same built page, and that every referenced `/assets/...` file exists. The same checks run in CI (`.github/workflows/ci.yml`).
 
-2. **Assets** — every referenced image must exist:
-
-   ```python
-   import re, glob, os
-   for f in glob.glob('_site/**/*.html', recursive=True):
-       for src in re.findall(r'src="(/assets/[^"]+)"', open(f).read()):
-           if not os.path.exists('_site' + src): print(f, 'MISSING', src)
-   ```
-
-3. **Visible text** — when restructuring a page, compare visible text before/after (strip `<script>`/`<style>` and all tags, `html.unescape`, collapse whitespace); only intentional diffs are acceptable.
+When restructuring a page, also compare visible text before/after (strip `<script>`/`<style>` and all tags, `html.unescape`, collapse whitespace); only intentional diffs are acceptable.
 
 ## Commits
 
