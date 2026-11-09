@@ -14,7 +14,7 @@ description: "Dažniausiai užduodami klausimai apie peritoninę dializę ir tra
 - [DUK apie transplantaciją](#Tr)
   - [Kas yra inkstų transplantacija? Kam ji atliekama?](#Tr1)
   - [Transplantacijos rūšys](#Tr2)
-  - [Kas vyskta atsiradus donorui](#Tr3)
+  - [Kas vyksta atsiradus donorui](#Tr3)
   - [Kaip vyksta inksto transplantacijos operacija?](#Tr4)
   - [Komplikacijos](#Tr5)
   - [Kas vyksta po inksto transplantacijos operacijos?](#Tr6)
@@ -34,19 +34,19 @@ Kateterio vaizdas pilve. PD kateterio implantavimo vieta parenkama atsižvelgian
 
 ### Kaip pasiruošti PD kateterio implantavimui? Kaip viskas vyks? {#PD3}
 
-Peritoninei dializei atlikti implantuojamas nuolatinis peritoninės dializės kateteris. PD kateterio implantavimas prasideda nuo anamnezės ir paciento apžiūros kurios metu įvertinamos paciento galimybės atlikti PD, pilvo sienos randai, raukšlės, diržo linija ir pan. Numatomos operacinio pjūvio sritys, kateterio išėjimo angos vieta, kateterio kryptis. PD kateteriai implantuojami trimis būdais: punkciniu, atviros laparotomijos būdu, laparoskopiškai. Kuriuo būdu kateteris bus implantuotas, priklauso nuo procedūrą atliekančio specialisto pasirinkimo. Prieš operaciją pacientas turi nevalgyti ir negerti, skiriama antibiotikų profilaktika, mašinėle nukerpami plaukai operacinės žaizdos sirtyje, trombozių profilaktikai kojos bintuojamos elastiniais bintais arba naudojamos kompresinės kojinės. Pacientas turi būti tuščia šlapimo pūsle, gali būti klizmuojamas. Kateteris paprastai implantuojamas taikant bendrinę nejautrą. Kurioje kūno vietoje formuojama kateterio anga, priklauso nuo žmogaus kūno ypatybių ir įpročių: anga turi būti pacientui matoma, negali slėptis paodžio riebalų klostėse, negali būti kelnių diržo lygyje. Po kataterio implantavimo pacientas iš operacinės grįžta į palatą. Keltis, gerti ir valgyti gali praėjus 3-6 val. po operacijos. Pooperacinio skausmo malšinimui pakanka nesteroidinių priešuždegiminių vaistų. Kojos nubintuojamos (ar numaunamos kojinės) pacientui pradėjus vaikščioti. Prieš pradedant PD atliekama pilvo ir dubens apžvalginė rentgenograma. Po operacijos žaizda neperrišama 7-10 dienų. Tuo laikorapiu negalima šlapinti žaizdos! Po 7-10 dienų atliekamas perrišimas, pašalinami operaciniai siūlai.
+Peritoninei dializei atlikti implantuojamas nuolatinis peritoninės dializės kateteris. PD kateterio implantavimas prasideda nuo anamnezės ir paciento apžiūros kurios metu įvertinamos paciento galimybės atlikti PD, pilvo sienos randai, raukšlės, diržo linija ir pan. Numatomos operacinio pjūvio sritys, kateterio išėjimo angos vieta, kateterio kryptis. PD kateteriai implantuojami trimis būdais: punkciniu, atviros laparotomijos būdu, laparoskopiškai. Kuriuo būdu kateteris bus implantuotas, priklauso nuo procedūrą atliekančio specialisto pasirinkimo. Prieš operaciją pacientas turi nevalgyti ir negerti, skiriama antibiotikų profilaktika, mašinėle nukerpami plaukai operacinės žaizdos srityje, trombozių profilaktikai kojos bintuojamos elastiniais bintais arba naudojamos kompresinės kojinės. Pacientas turi būti tuščia šlapimo pūsle, gali būti klizmuojamas. Kateteris paprastai implantuojamas taikant bendrinę nejautrą. Kurioje kūno vietoje formuojama kateterio anga, priklauso nuo žmogaus kūno ypatybių ir įpročių: anga turi būti pacientui matoma, negali slėptis paodžio riebalų klostėse, negali būti kelnių diržo lygyje. Po kateterio implantavimo pacientas iš operacinės grįžta į palatą. Keltis, gerti ir valgyti gali praėjus 3-6 val. po operacijos. Pooperacinio skausmo malšinimui pakanka nesteroidinių priešuždegiminių vaistų. Kojos nubintuojamos (ar numaunamos kojinės) pacientui pradėjus vaikščioti. Prieš pradedant PD atliekama pilvo ir dubens apžvalginė rentgenograma. Po operacijos žaizda neperrišama 7-10 dienų. Tuo laikotarpiu negalima šlapinti žaizdos! Po 7-10 dienų atliekamas perrišimas, pašalinami operaciniai siūlai.
 
 ## DUK APIE TRANSPLANTACIJĄ {#Tr}
 
 ### Kas yra inkstų transplantacija? Kam ji atliekama? {#Tr1}
 
-Inkstų transplantacija (persodinimas) – chirurginė procedūra, kurios metu paimamas funkcionuojantis vieno žmogaus (donoro) inkstas ir persodinamas kitam žmogui (recipientui). Ši procedūra atliekama žmonėms su terminaliniu inkstų funkcijos nepakankamumu, kai savi inkstai nebesugeba atlikti savo funkcijų ir nepašalina iš organizmo skysčių ir kitų nereikalingų medžiagų. Inkstų transplantacija siekiama padaryti pacientą nepriklausomą nuo dializių, pagerinti žmogaus gyvenimo kokybę, socialiai jį adaptuoti ir būti lygiaverčiui su savo amžiaus grupės žmonėms.
+Inkstų transplantacija (persodinimas) – chirurginė procedūra, kurios metu paimamas funkcionuojantis vieno žmogaus (donoro) inkstas ir persodinamas kitam žmogui (recipientui). Ši procedūra atliekama žmonėms su terminaliniu inkstų funkcijos nepakankamumu, kai savi inkstai nebesugeba atlikti savo funkcijų ir nepašalina iš organizmo skysčių ir kitų nereikalingų medžiagų. Inkstų transplantacija siekiama padaryti pacientą nepriklausomą nuo dializių, pagerinti žmogaus gyvenimo kokybę, socialiai jį adaptuoti ir būti lygiaverčiu su savo amžiaus grupės žmonėmis.
 
 ### Inkstų transplantacijos rūšys {#Tr2}
 
-Transplantacija galima iš gyvo (kai persodinamas sveikas donoro inkstas recipientui. Sveiką inkstą gali dovanoti giminystės ryšiu turintys žmonės) arba mirusio donoro (kai recipientui persodinamas funkcionuojantis inkstas žmogaus, kuriam buvo konstantuota galvos smegenų mirtis ir kurio artimieji pasirašė sutikimą donorystei).
+Transplantacija galima iš gyvo donoro (kai persodinamas sveikas donoro inkstas recipientui. Sveiką inkstą gali dovanoti giminystės ryšiu turintys žmonės) arba mirusio donoro (kai recipientui persodinamas funkcionuojantis inkstas žmogaus, kuriam buvo konstatuota galvos smegenų mirtis ir kurio artimieji pasirašė sutikimą donorystei).
 
-### Kas vyskta atsiradus donorui {#Tr3}
+### Kas vyksta atsiradus donorui {#Tr3}
 
 Jei turite giminaitį, kuris Jums sutinka dovanoti inkstą, turite apie tai informuoti Jus gydantį nefrologą. Prieš transplantaciją donoras ir recipientas pilnai ambulatoriškai ištiriami. Atlikus visus būtinus imunologinius ir kitus tyrimus, jie hospitalizuojami planine tvarka į Urologijos skyrių ir ruošiami transplantacijos operacijai.
 
@@ -60,7 +60,7 @@ Operacinėje įvedamas kateteris į perifeninę ar centrinę veną. Operacijos m
 
 ### Komplikacijos {#Tr5}
 
-Pirmą pooperacinę parą apie 65 – 80% pacientų inkstų funkcija atsistato iš karto po atliktos operacijos. Kitais atvejais būna laikinas ūminis inksto nepakankamumas, tuomet inksto funkscija atsistato palaipsniui. Dažniausiai pasitaikančios komplikacijos:
+Pirmą pooperacinę parą apie 65 – 80% pacientų inkstų funkcija atsistato iš karto po atliktos operacijos. Kitais atvejais būna laikinas ūminis inksto nepakankamumas, tuomet inksto funkcija atsistato palaipsniui. Dažniausiai pasitaikančios komplikacijos:
 
 - Kraujavimas. Dėl kraujavimo retais atvejais tenka pakartotinai operuoti, atlikti kraujavimo stabdymo procedūras.
 - Infekcija. Pasitaiko dažniau, nes vartojami imunosupresiniai vaistai, kurie slopina imuninį atsaką į virusus ir bakterijas. Todėl didesnės rizikos grupės pacientams papildomai skiriama antivirusinė ir antibakterinė profilaktika.
@@ -88,4 +88,4 @@ Po transplantacijos, ypač pirmais metais, pacientas nuolat stebimas gydytojų n
 
 Jeigu po transplantacijos atsirado karščiavimas ar šaltkrėtis, ūmus skausmas, paraudimas ar išskyros iš operacinės žaizdos, šlapinimosi sutrikimai, dusulys ar skausmas krūtinėje kuo greičiau susisiekite su gydytoju.
 
-Iki metų po transplantacijos pas nefrologą reikės lankytis kas mėnesį, esant reikalui ir dažniau. Praėjus 12 mėn ir daugiau laiko po transplantacijos – kas tris mėnesius ir pagal indikacijas. Kiekvieno aspilankymo pas nefrologą metu bus išklausomi paciento skundai, pacientas pasveriamas, pamatuojamas kraujo spaudimas, atliekama transplantuoto inksto senoskopija, paskiriami labaratoriniai tyrimai ir, esant reikalui, papildomi instrumentiniai tyrimai, įvertinantys transplantuoto inksto funkciją. Tą pačią dieną įvertinami gauti tyrimų rezultatai, pratęsiamas buvęs ar koreguotas gydymas arba, esant reikalui, pacientas hospitalizuojamas. Išrašomi receptai vaistams. Numatoma sekančio vizito data. Esant reikalui gali būti nukreipiami konsultuotis papildomai su kitais specialistais.
+Iki metų po transplantacijos pas nefrologą reikės lankytis kas mėnesį, esant reikalui ir dažniau. Praėjus 12 mėn ir daugiau laiko po transplantacijos – kas tris mėnesius ir pagal indikacijas. Kiekvieno apilankymo pas nefrologą metu bus išklausomi paciento skundai, pacientas pasveriamas, pamatuojamas kraujo spaudimas, atliekama transplantuoto inksto senoskopija, paskiriami laboratoriniai tyrimai ir, esant reikalui, papildomi instrumentiniai tyrimai, įvertinantys transplantuoto inksto funkciją. Tą pačią dieną įvertinami gauti tyrimų rezultatai, pratęsiamas buvęs ar koreguotas gydymas arba, esant reikalui, pacientas hospitalizuojamas. Išrašomi receptai vaistams. Numatoma sekančio vizito data. Esant reikalui gali būti nukreipiami konsultuotis papildomai su kitais specialistais.

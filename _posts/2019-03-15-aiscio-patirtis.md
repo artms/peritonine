@@ -3,7 +3,7 @@ layout: post
 title: "Aisčio patirtis"
 date: 2019-03-15
 slug: aiscio-patirtis
-description: "Aistis atsako į klausymus apie peritoninę dializę. Jis atlieka rankines PD."
+description: "Aistis atsako į klausimus apie peritoninę dializę. Jis atlieka rankines PD."
 image: /assets/images/patirtys/peritonine.lt_.jpg
 ---
 
@@ -16,7 +16,7 @@ Kaip jautėtės po kateterio įstatymo operacijos? Gerai, kažko negalėčiau i�
 Kiek laiko prireikė po jos atsigauti? Pilvas sugijo per kokias tris savaites.\
 Kada po operacijos pradėjote dializuotis? Praėjus mėnesiui po operacijos.\
 Kiek laiko užtruko mokymai ir ar sunkiai išmokote? Tiksliai jau nebepamenu, pusantros ar dvi savaites.\
-Kaip Jūsų gyvenimas pasikeitė su PD ar nustotojote, o gal atvirkščiai pradėjote kažką daryti ko iki tol nedarėte (pvz.: negalima sunkiai kelti, nes lengviau gauti išvaržą, sportuoti galima tik tuščiu pilvu ir pan.)?\
+Kaip Jūsų gyvenimas pasikeitė su PD ar nustojote, o gal atvirkščiai pradėjote kažką daryti ko iki tol nedarėte (pvz.: negalima sunkiai kelti, nes lengviau gauti išvaržą, sportuoti galima tik tuščiu pilvu ir pan.)?\
 Nustojau bėgioti, tiesa, tą daryti nustojau jau kuris laikas prieš pradėdamas dializuotis. Negalėčiau pasakyti.\
 Ar skauda? Ar sunku kasdien prižiūrėti kateterį? Neskauda. Visų dalykų apie higieną išmoko per mokymus.\
 Ar reikėjo kažką papildomai įsigyti dėl dializių (pvz. staliuką ant kurio dedate aparatą prie lovos ir pan.)? Įsigijau lašelinių stovą, kad būtų kur patogiai pasikabinti tirpalus.\
